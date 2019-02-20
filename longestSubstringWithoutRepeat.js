@@ -19,3 +19,4 @@ function lengthOfLongestSubstring(s) {
 };
 
 console.log(lengthOfLongestSubstring('abacdefjkhxabato'))
+// this case is missed, returns 10 when it should be much less
